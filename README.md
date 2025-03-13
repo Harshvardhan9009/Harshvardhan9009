@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Harshvardhan9009-Main
+<<<<<<<
 =======
 <!-- <img src="computer.gif" width="100%"/> -->
 <div align="center"><img src="github-header-image.png" width="95%"/></div>
