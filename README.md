@@ -1,6 +1,6 @@
 
 <!-- <img src="computer.gif" width="100%"/> -->
-<div align="center"><img src="github-header-image.png" width="95%"/></div>
+<div align="center"><img src="Harshvardhan9009.png" width="95%"/></div>
 <br>
 
 <p align="center">
