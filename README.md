@@ -9,7 +9,8 @@
 <br>
 
 <div align="center">
- 
+<img src="https://img.shields.io/github/followers/Harshvardhan9009.svg?style=social&label=Follow"></img>
+ <img src="https://gpvc.arturio.dev/Harshvardhan9009"></img> 
 </div>
 <br>
 
