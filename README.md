@@ -31,7 +31,7 @@ href="https://www.instagram.com//"><img height="60" src="Assets/instagram.png"><
 
 
 <div align="center">
-👨‍🎓I am Harshvardhan Salunkhe, currently embarking on my engineering journey from Vishwakarma University ,Pune ,India.<br/>
+👨‍🎓I am Harshvardhan Salunkhe, currently embarking on my engineering journey from Vishwakarma University Pune ,India.<br/>
 💻I am a 🧑‍💻FullStack Web Developer🧑‍💻 Problem Solver💻 Content Creator🌟 Technical Writer✍🏼 <br/>
 I love❤ to make Exciting Projects✨<br/>
 I really enjoy learning new languages and technologies.<br/>
