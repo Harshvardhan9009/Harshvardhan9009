@@ -1,6 +1,6 @@
 
 <!-- <img src="computer.gif" width="100%"/> -->
-<div align="center"><img src="Harshvardhan9009.png" width="95%"/></div>
+<div align="center"><img src="github-header-image.png" width="95%"/></div>
 <br>
 
 <p align="center">
@@ -9,7 +9,7 @@
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/harshvardhan-salunkhe/"><img height="60" src="Assets/linkedin.png"></a>&nbsp;&nbsp;
 <!--<a target="_blank" 
-href=""><img height="60" src="Assets/instagram.png"></a>&nbsp;&nbsp;-->
+href="https://www.instagram.com/sanket.00900/"><img height="60" src="Assets/instagram.png"></a>&nbsp;&nbsp;-->
 <a target="_blank" href="https://github.com/Harshvardhan9009"><img height="60" src="Assets/twitter.png"></a>&nbsp;&nbsp;
 <a target="_blank" href="mailto:harshsalunkhe99@gmail.com"><img height="60" src="Assets/mail.png"></a>
 <a target="_blank" href="https://github.com/Harshvardhan9009"><img height="60" src="Assets/github.png"></a>&nbsp;&nbsp;
@@ -18,8 +18,8 @@ href=""><img height="60" src="Assets/instagram.png"></a>&nbsp;&nbsp;-->
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/github/followers/Harshvardhan9009.svg?style=social&label=Follow"></img>
- <img src="https://gpvc.arturio.dev/Harshvardhan9009"></img> 
+<img src="https://img.shields.io/github/followers/Sanket00900.svg?style=social&label=Follow"></img>
+ <img src="https://gpvc.arturio.dev/Sanket00900"></img> 
 </div>
 <br>
 
