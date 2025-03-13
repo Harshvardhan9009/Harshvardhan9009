@@ -8,13 +8,10 @@
   
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/harshvardhan-salunkhe/"><img height="60" src="Assets/linkedin.png"></a>&nbsp;&nbsp;
-
 <!--<a target="_blank" 
 href=""><img height="60" src="Assets/instagram.png"></a>&nbsp;&nbsp;-->
 <a target="_blank" href="https://github.com/Harshvardhan9009"><img height="60" src="Assets/twitter.png"></a>&nbsp;&nbsp;
-
 <a target="_blank" href="mailto:harshsalunkhe99@gmail.com"><img height="60" src="Assets/mail.png"></a>
-
 <a target="_blank" href="https://github.com/Harshvardhan9009"><img height="60" src="Assets/github.png"></a>&nbsp;&nbsp;
 </p>
 
