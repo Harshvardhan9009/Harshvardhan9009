@@ -13,8 +13,7 @@
  <img src="https://gpvc.arturio.dev/Harshvardhan9009"></img> 
 </div>
 <br>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Problem+Solver;Content+Creator;Technical+Writer&center=true&color=f75c7e&width=500&height=50"></a>
+
   
 <p align='center'>
 <a target="_blank" href="https://www.linkedin.com/in/harshvardhan-salunkhe/"><img height="60" src="Assets/linkedin.png"></a>&nbsp;&nbsp;
