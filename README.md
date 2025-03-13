@@ -1,6 +1,6 @@
 
 <!-- <img src="computer.gif" width="100%"/> -->
-<div align="center"><img src="github-header-image.png" width="95%"/></div>
+<div align="center"><img src="[def2]" width="95%"/></div>
 <br>
 
 <p align="center">
@@ -115,3 +115,7 @@ I really enjoy learning new languages and technologies.<br/>
 <img src="https://github.com/kothariji/kothariji/blob/master/github-user-contribution.svg"></img>
 </div>
 >>>>>>> e7ac6a7 (Initial commit - adding project files)
+
+
+[def]: lack and Blue Futuristic Data Analyst LinkedIn Banner.mp
+[def2]: def
